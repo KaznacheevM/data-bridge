@@ -33,7 +33,7 @@ git restore .
 git reset --hard HEAD~1
 ```
 
-## HW2
+## HW3
 
 Выполненные команды:
 
