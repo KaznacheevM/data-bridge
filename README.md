@@ -32,3 +32,14 @@ git reset --mixed HEAD~1
 git restore .
 git reset --hard HEAD~1
 ```
+
+## HW2
+
+Выполненные команды:
+
+```bash
+git checkout -b task3
+git add .
+git commit -m "Task done"
+git push origin task3
+```
